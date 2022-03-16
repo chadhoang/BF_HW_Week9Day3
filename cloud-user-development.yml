@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cloud-user
+
+server:
+  port: 0
+
+user:
+  role: CUSTOMER
